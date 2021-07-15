@@ -1,0 +1,7 @@
+﻿  bst.c
+C:\Users\lenovo\OneDrive - University of Tasmania\ICT year 3\KIT205\A2 AVL\A2\bst.c(158,33): warning C4047: 'function': 'StudentList *' differs in levels of indirection from 'BSTNodePtr *'
+C:\Users\lenovo\OneDrive - University of Tasmania\ICT year 3\KIT205\A2 AVL\A2\bst.c(158,33): warning C4024: 'search_stdNode': different types for formal and actual parameter 1
+  list.c
+  main.c
+  Generating Code...
+  A2.vcxproj -> C:\Users\lenovo\OneDrive - University of Tasmania\ICT year 3\KIT205\A2 AVL\Debug\A2.exe
